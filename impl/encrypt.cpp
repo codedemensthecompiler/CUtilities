@@ -1,3 +1,13 @@
+/////////////////////////////////
+/// This is a source file of CUtilities Toolset
+///     by Dawid Jakubowski (Codedemens The Compiler)
+///
+///    Under MIT License
+///
+/// CUtilities is a preset of tools responsible for all sorts of IT work.
+/// It ranges from development, programming, work, linux-related to hardening (IT Security) tools.
+/////////////////////////////////
+// CUtilities' encrypt
 
 #include <common.h>
 

@@ -1,3 +1,12 @@
+/////////////////////////////////
+// This is a source file of CUtilities Toolset
+//     by Dawid Jakubowski (Codedemens The Compiler)
+//
+//    Under MIT License
+//
+// CUtilities is a preset of tools responsible for all sorts of IT work.
+// It ranges from development, programming, work, linux-related to hardening (IT Security) tools.
+/////////////////////////////////
 
 #ifndef CUTILITIES_COMMON_H
 #define CUTILITIES_COMMON_H
@@ -8,8 +17,6 @@
 #include <stdlib.h>
 #include <map>
 #include <set>
-
-
 
 /////////////////////////////////
 extern std::string techbuild;
