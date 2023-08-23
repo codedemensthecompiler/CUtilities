@@ -8,9 +8,9 @@ CUtilities is a preset of tools responsible for all sorts of IT work. It ranges 
 
 ===
 
-🗂 ```bin/``` - directory of CUtilities' build binaries.
-🗂 ```impl/``` - source code directory.
-💽 ```compile.sh``` - Bash file holding compilation information.
+ - 🗂 ```bin/``` - directory of CUtilities' build binaries.
+ - 🗂 ```impl/``` - source code directory.
+ - 💽 ```compile.sh``` - Bash file holding compilation information.
 
 ===
 
